@@ -1,7 +1,7 @@
 ### Hi there 👋, LPTP1 here
 
 My Coding Stats:
-[![LPTP1Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPTP1Dev)]
+![LPTP1Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPTP1Dev)
 
 Here are some ideas to get you started:
 
