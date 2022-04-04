@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on LPTP1 Music - an Discord Music Bot that uses its own way to get the music streams
+- 🔭 I’m currently learning React and NextJS
 - 💬 Need help? Ask me! Discord: LPTP1#1233
 - 📫 How to reach me: Discord, Mail (checked sometimes, not that often 😄)
 - 😄 Pronouns: he/him
