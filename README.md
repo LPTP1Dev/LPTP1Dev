@@ -5,7 +5,7 @@
 Here you can find information about me:
 
 - 🔭 I’m currently learning React and NextJS
-- 💬 Need help? Ask me! Discord: LPTP1#1233
+- 💬 Need help? Ask me! Discord: @lptp1
 - 📫 How to reach me: Discord, Mail (checked sometimes, not that often 😄)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started coding in Python but I can't even write simple things in Python any more
