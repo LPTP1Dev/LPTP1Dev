@@ -1,6 +1,6 @@
 ### Hi there 👋, LPTP1 here
 
-![LPTP1Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPTP1Dev)
+![LPTP1Dev's GitHub stats](https://github-readme-stats-git-main-lptp1devs-projects.vercel.app/api?username=LPTP1Dev)
 
 Here you can find information about me:
 
